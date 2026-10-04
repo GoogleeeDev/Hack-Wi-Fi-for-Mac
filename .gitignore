@@ -1,0 +1,8 @@
+*.pcap
+*.wcap
+*.cap
+config/config.env
+.DS_Store
+/SecLists/
+crunch_generated_wordlist.txt
+mega_wifi_wordlist.txt
