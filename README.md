@@ -90,7 +90,7 @@ Hack Wi-Fi for Mac/
 
 1. Перейди в папку с проектом через Терминал:
    ```bash
-   cd "Hack Wi-Fi for Mac"
+   cd "Hack-Wi-Fi-for-Mac-0.1"
    ```
 2. Дай файлу `script.sh` права на запуск в системе:
    ```bash
